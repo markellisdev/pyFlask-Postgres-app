@@ -9,3 +9,5 @@ This is a Flask app connecting to a Postgres database. It will start simple and 
 ## Future goals
 1. Replace front-end with React
 2. Replace email confirmations with SMS notifications
+
+#### Intitial build based off [Brad Traversy's excellent video](https://www.youtube.com/watch?v=w25ea_I89iM)
